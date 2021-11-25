@@ -5,7 +5,7 @@
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- Press 'click me!' to generate any random hex color
+- Press ```click me!``` to generate any random hex color
 
 ### Screenshot
 
